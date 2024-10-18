@@ -1,9 +1,9 @@
-short_name = "godot"
-name = "Godot Engine"
-major = 4
-minor = 4
+short_name = "JimaGameEngine"
+name = "Jima Game Engine"
+major = 0
+minor = 1
 patch = 0
 status = "dev"
 module_config = ""
-website = "https://godotengine.org"
+website = "https://jimagames.co.za"
 docs = "latest"
